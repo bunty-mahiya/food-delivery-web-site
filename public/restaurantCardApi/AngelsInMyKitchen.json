@@ -1,0 +1,3947 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Angels In My Kitchen",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "800434",
+              "name": "Angels In My Kitchen",
+              "city": "Delhi",
+              "slugs": {
+                "restaurant": "angel's-in-my-kitchen-connaught-place-connaught-place",
+                "city": "delhi"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/18/d360ee15-123c-4d6e-90e7-0e5fbaf225d0_800434.jpg",
+              "locality": "Chankya Puri",
+              "areaName": "Connaught Place",
+              "costForTwo": "60000",
+              "costForTwoMessage": "₹600 for two",
+              "cuisines": [
+                "Bakery",
+                "Desserts"
+              ],
+              "avgRating": 4.3,
+              "feeDetails": {
+                "restaurantId": "800434",
+                "fees": [
+                  {
+
+                  }
+                ]
+              },
+              "parentId": "4405",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "36 ratings",
+              "sla": {
+                "restaurantId": "800434",
+                "deliveryTime": 82,
+                "minDeliveryTime": 80,
+                "maxDeliveryTime": 90,
+                "lastMileTravel": 12.6,
+                "serviceability": "SERVICEABLE_WITH_BANNER",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 175,
+                "slaString": "80-90 MINS",
+                "lastMileTravelString": "12.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2025-11-04 01:00:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {
+
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "header": "Flat ₹125 off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Flat ₹125 off | Use FLAVORFUL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹150 off on orders above ₹699",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Flat ₹125 off | Use FLAVORFUL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹150 off on orders above ₹699 | Use code CELEBRATION",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {
+
+              },
+              "slugString": "angel's-in-my-kitchen-connaught-place-connaught-place",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Nirulas, Shop No. M-57,M- Block, Connaught Place New Delhi ,CHANKYA PURI,New Delhi,Delhi-110001"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Bakery,Desserts"
+                }
+              ],
+              "totalRatings": 36,
+              "aggregatedDiscountInfoV2": {
+                "header": "Flat ₹125 off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Flat ₹125 off | Use FLAVORFUL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹150 off on orders above ₹699",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Flat ₹125 off | Use FLAVORFUL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹150 off on orders above ₹699 | Use code CELEBRATION",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 279,
+                  "maxValue": 399,
+                  "priority": 1,
+                  "couponCode": "FLAVORFUL",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 125
+                  },
+                  "lockedMessage": "Add items worth ₹\u003Camount\u003E to save ₹125 | Code FLAVORFUL",
+                  "unlockedMessage": "FLAVORFUL Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {
+
+                  },
+                  "movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+                },
+                {
+                  "minValue": 489,
+                  "maxValue": 699,
+                  "priority": 2,
+                  "couponCode": "CELEBRATION",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 150
+                  },
+                  "lockedMessage": "Add items worth ₹\u003Camount\u003E to save ₹150 | Code CELEBRATION",
+                  "unlockedMessage": "CELEBRATION Coupon Unlocked! Use it to save ₹150",
+                  "logoCtx": {
+
+                  },
+                  "movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/800434"
+              },
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {
+
+                      }
+                    },
+                    "linkCta": {
+
+                    }
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Currently not accepting orders from your location for this outlet",
+              "restaurantCategory": "RESTAURANT_CATEGORY_GOURMET",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Be right"
+                },
+                "subTitle": {
+                  "text": "BACK!"
+                },
+                "message": {
+                  "text": "Lots of orders, drivers are busy, Outlet will be back soon, don't you worry :)",
+                  "textColour": "primary"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#EB8322",
+                  "bgGradientColorEnd": "#EE5803"
+                },
+                "commsStyling": {
+
+                }
+              },
+              "hasBestsellerItems": true,
+              "nearestOutletNudge": {
+                "nearestOutletInfo": {
+                  "siblingOutlet": {
+                    "id": "881780",
+                    "city": "0",
+                    "slugs": {
+
+                    },
+                    "areaName": "Janakpuri",
+                    "costForTwo": "0",
+                    "feeDetails": {
+
+                    },
+                    "sla": {
+                      "deliveryTime": 39,
+                      "lastMileTravel": 4.5,
+                      "slaString": "39 MINS",
+                      "lastMileTravelString": "4.5 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                      "restaurantClosedMeta": {
+
+                      }
+                    },
+                    "aggregatedDiscountInfo": {
+                      "visible": true
+                    },
+                    "badges": {
+
+                    },
+                    "aggregatedDiscountInfoV2": {
+                      "visible": true
+                    },
+                    "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                    "cartOrderabilityNudgeBanner": {
+                      "parameters": {
+
+                      },
+                      "presentation": {
+
+                      }
+                    },
+                    "featuredSectionInfo": {
+
+                    }
+                  }
+                },
+                "nearestOutletComms": {
+                  "title": {
+                    "text": "Don't worry! Try our outlet that's delivering"
+                  },
+                  "subTitle": {
+                    "text": "Switch to the fastest alternate"
+                  }
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+
+                },
+                "presentation": {
+
+                }
+              },
+              "latLong": "28.633330336407433,77.22217497540817",
+              "backgroundImageOverlayInfo": {
+
+              },
+              "featuredSectionInfo": {
+
+              },
+              "dishStyle": {
+                "socialMarkerStyle": [
+                  {
+                    "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
+                    "title": "Protein Rich",
+                    "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                    "textColor": "highlight"
+                  },
+                  {
+                    "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
+                    "title": "Bestseller",
+                    "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                    "textColor": "color_swiggy_one"
+                  }
+                ]
+              }
+            },
+            "analytics": {
+
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 4,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {
+
+              },
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10
+                }
+              },
+              "scrollBar": {
+                "scrollThumbColor": "#E46D47",
+                "scrollTrackColor": "#e4e4e4",
+                "width": 54,
+                "height": 4,
+                "scrollStyling": {
+                  "padding": {
+                    "top": 20,
+                    "bottom": 20
+                  }
+                }
+              }
+            },
+            "id": "offerCollectionWidget",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "FLAT ₹125 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "335dfb54-8846-446b-ae8a-0294428bf150"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAVORFUL",
+                      "description": "ABOVE ₹399",
+                      "offerType": "offers",
+                      "restId": "800434",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLAVORFUL"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹150 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "8e58306d-a3ab-43f9-a723-56e43b5bf799"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE CELEBRATION",
+                      "description": "ABOVE ₹699",
+                      "offerType": "offers",
+                      "restId": "800434",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE CELEBRATION"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹50 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/10/31/0831c1d6-1906-4541-9224-c61962c59150_ICICIMenuLogo.png",
+                      "offerIds": [
+                        "0c045c6a-2a5c-44cb-b794-ca209c366cf9"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹599",
+                      "offerType": "offers",
+                      "restId": "800434",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/10/31/0831c1d6-1906-4541-9224-c61962c59150_ICICIMenuLogo.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "NO CODE REQUIRED"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹200 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "e80686a3-ed5e-4fec-8552-017bcd1b4eff"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE CELEBRATIONS",
+                      "description": "ABOVE ₹599",
+                      "offerType": "offers",
+                      "restId": "800434",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE CELEBRATIONS"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {
+
+                  }
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {
+
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuTab",
+            "tabs": [
+              {
+                "id": "REGULAR",
+                "title": "Full Menu",
+                "selected": true,
+                "analytics": {
+
+                },
+                "selectedImage": "v1594205104/fullMenuActive_qcsdzt.png",
+                "unselectedImage": "v1594205107/fullMenuInactive_fbdtp2.png"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {
+
+                      },
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Classic Pastries",
+                      "categories": [
+                        {
+                          "title": "Chocolate Pastries",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914628",
+                                  "name": "Melt In Mouth Chocolate Eclairs",
+                                  "category": "Classic Pastries",
+                                  "description": "(contains egg) chocolate eclair filled with light vanilla whipped cream and topped with a smooth chocolate glaze. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/3bb18a03-50ae-4ed7-a4d0-1c8369e7560b_1eab83f5-cd5d-40e9-86fa-61cd0f055a47.jpg",
+                                  "inStock": 1,
+                                  "price": 12900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "2 ratings",
+                                      "ratingCountV2": "2"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "73914965"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "148031207",
+                                  "name": "Chocolate Fudge Brownie Pastry",
+                                  "category": "Classic Pastries",
+                                  "description": "Gooey brownie coated in rich chocolate. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/88009dd2-5f56-4128-8949-5ab3b49c5d06_902dc894-5430-48e4-99d8-e2c8578f8b42.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.7",
+                                      "ratingCount": "3 ratings",
+                                      "ratingCountV2": "3"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "109861411"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "131256050",
+                                  "name": "Choco Truffle Pastry",
+                                  "category": "Classic Pastries",
+                                  "description": "Gooey chocolate pastry layered with chocolate ganache and butter cream. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/36de4614-043f-4439-bdd1-16b567244762_d58b31d7-d5c3-4100-88d9-55bc2c392a30.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.8",
+                                      "ratingCount": "4 ratings",
+                                      "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#D9EFEC",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_medium",
+                                      "ratingTextColor": "rating_medium",
+                                      "ratingCountTextColor": "rating_medium",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "91241103"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914632",
+                                  "name": "Angels Belgian Evasion Pastry",
+                                  "category": "Classic Pastries",
+                                  "description": "Classic evasion pastry crafted with dark chocolate sponge, signature evasion cream, smooth ganache whipped cream and crunchy nougat. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/84834d64-28a6-4bdc-87fa-4d5da914f80a_e685c6be-e0ec-4ad6-8d86-12558fe925b4.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.1",
+                                      "ratingCount": "4 ratings",
+                                      "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "73914946"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508740"
+                        },
+                        {
+                          "title": "Classic Pastries",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914630",
+                                  "name": "Fresh Cream Pineapple Pastry",
+                                  "category": "Classic Pastries",
+                                  "description": "Silky light sponge cake layered with fresh in-house pineapple compote. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/fe10672d-3d3c-4f2a-b627-17b93c89c685_3c7a57ad-4611-4fe6-8cff-b540d9dc5a28.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "75051509"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195151",
+                                  "name": "Red Velvet Pastry",
+                                  "category": "Classic Pastries",
+                                  "description": "Soft and moist red velvet sponge paired with smooth cream cheese frosting. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/75268401-0019-4d39-9938-dc65895fdd5f_11468885-9e4f-4446-a8c3-4274e8f2ec94.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "26694351"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914633",
+                                  "name": "Rainbow Pastry",
+                                  "category": "Classic Pastries",
+                                  "description": "Fluffy sponge layers in each hue of the rainbow layered with cream cheese. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/16/ecbb88c6-abb5-485a-ae6e-f8591370dfef_5b410752-df39-49db-a6a9-5e29cc0652f5.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "26694331"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195158",
+                                  "name": "Fruit Custard Pastry",
+                                  "category": "Classic Pastries",
+                                  "description": "A light, silky soft sponge cake layered with in-house fruit custard and fresh cream. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/0646cc24-e233-458c-bee5-9d26abfdf255_bc1a5eb4-d1e7-49fa-b759-a4d7107819df.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.4",
+                                      "ratingCount": "4 ratings",
+                                      "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "91171130"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508739"
+                        },
+                        {
+                          "title": "Baked Cheesecake",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914636",
+                                  "name": "Blueberry Cheesecake",
+                                  "category": "Classic Pastries",
+                                  "description": "(contains egg) a baked cheesecake slice featuring a velvety cream cheese base topped with a rich blueberry compote. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/5a51b69b-da98-409e-9108-1e79763b1be3_85304e67-421e-476a-9596-58e6d1ff74c9.jpg",
+                                  "inStock": 1,
+                                  "price": 22900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "65099977"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195160",
+                                  "name": "Biscoff Cheesecake",
+                                  "category": "Classic Pastries",
+                                  "description": "(contains egg) a baked cheesecake featuring a velvety cream cheese base and topped with the taste of the signature caramelized biscoff flavour. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/205b6401-b6ab-4288-a122-03121959dd66_ef5b958a-a76c-48c4-a065-72183a7f6fa6.jpg",
+                                  "inStock": 1,
+                                  "price": 22900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91171118"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508741"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/3bb18a03-50ae-4ed7-a4d0-1c8369e7560b_1eab83f5-cd5d-40e9-86fa-61cd0f055a47.jpg",
+                      "categoryId": "65508723"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Cakes",
+                      "categories": [
+                        {
+                          "title": "Half Kg Classic Cakes",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914617",
+                                  "name": "Fresh Fruit Cake [1/2 Kg]",
+                                  "category": "Cakes",
+                                  "description": "A light, airy sponge cake layered with cream and topped with a colorful assortment of fresh seasonal fruits. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/f2cf26b5-a82e-49a0-b3ea-282bc57f2acf_242d2773-db18-45ba-b204-6e385e95a9bc.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 79900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "75051510"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508742"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/8/28/f2cf26b5-a82e-49a0-b3ea-282bc57f2acf_242d2773-db18-45ba-b204-6e385e95a9bc.jpg",
+                      "categoryId": "65508724"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Dessert Tubs (150 Gms)",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "181056709",
+                              "name": "Chocoholic Mousse Cake",
+                              "category": "Dessert Tubs (150 Gms)",
+                              "description": "Silky-smooth chocolate mousse layered with dark, milk, and white chocolate mousse for a triple indulgence. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/31/309c7f92-7d98-4ea4-907e-7fade826aff5_e9072f98-a052-4950-8176-81fe493f929e.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22900,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+
+                                }
+                              },
+                              "parentId": "109861410"
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "153195170",
+                              "name": "Dark Chocolate & Salted Caramel",
+                              "category": "Dessert Tubs (150 Gms)",
+                              "description": "Dense couverture dark chocolate mousse blended with our in-house salted caramel sauce, topped with a drop of in-house chocolate ganache and salted buttercream. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/7/09a39ca5-a012-4385-a6c3-cb3a13400cab_012f24a1-f119-4c20-b1b3-d03deabb9685.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22900,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+
+                                }
+                              },
+                              "parentId": "109861412"
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/8/31/309c7f92-7d98-4ea4-907e-7fade826aff5_e9072f98-a052-4950-8176-81fe493f929e.jpg",
+                      "categoryId": "66137024"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Cookies & Brownies",
+                      "categories": [
+                        {
+                          "title": "Cookies",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914667",
+                                  "name": "Chocolate Chip Cookies",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Serving size - 180gms |handcrafted and freshly baked with 100% pure butter, these classic cookies are generously loaded with milk chocolate chips for a delightful burst of sweetness in every bite. Turning everyday moments into chocolate-filled bliss. Disclaimer: each cookie may vary in size and shape as they are lovingly made by hand, each one is unique, just like you!",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/2/f10ca00b-1b3d-4b3d-9bbe-581b0d69e84f_84d838bb-8e27-4dd5-b8e0-fae282c7ab2e.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 29900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "91241102"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914668",
+                                  "name": "Raisin N Oat Cookies",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Serving size - 180gms |handcrafted and freshly baked with 100% pure butter, these golden oatmeal cookies are generously studded with plump, juicy raisins for a burst of natural sweetness in every bite. Crafted to turn everyday moments into little celebrations. Disclaimer: each cookie may have subtle differences in size and shape as they are lovingly crafted by hand. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/2/ce4ba065-6622-4b2d-875c-907b98367dac_4374056a-538a-4960-b664-de0a2466d8ef.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 29900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91241108"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "179843346",
+                                  "name": "Fruit N Nut Cookies",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Serving size - 300gms |handcrafted and freshly baked with 100% pure butter, these cookies are loaded with chewy dried fruits and crunchy nuts for a delightful burst of flavour in every bite. Disclaimer: as each cookie is made by hand, shape and sizes may vary, each one is unique, just like you!",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/15/f0c0972c-ec2c-4d7f-9bbd-f03e7681e50e_b2c7b97b-a982-4c3b-84b5-2107d0ed3565.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 29900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "108932287"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "179843347",
+                                  "name": "Nirula's Chocolate Fudge Cookies",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Serving size - 300gms |handcrafted and freshly baked with 100% pure butter, these soft, chewy cookies are made with the original nirula's chocolate fudge and packed with generous chunks for a perfect balance of crisp edges and a fudgy center. Disclaimer: these cookies may vary in size and shape as they are lovingly made by hand. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/15/403003e0-be28-4ea4-9a13-4edd1d65a92e_27204d3c-70cb-47e9-bd93-b897e1fb6aab.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 33900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "110175179"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195175",
+                                  "name": "Ajwain Cookies",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Serving size - 250gms |handcrafted and freshly baked with 100% pure butter, these light, savoury cookies are delicately flavoured with ajwain seeds for a unique, aromatic taste. Disclaimer: as each cookie is made by hand, shape and sizes may vary, making every piece one of a kind. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/15/b3aff071-4ae1-4b54-80b6-febd756d2e6e_3458cc03-5a21-4af7-bdb5-3db99d9e3a32.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 33900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91171115"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "185060687",
+                                  "name": "Assorted Cookies Jar (Pack Of 3)",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Three handcrafted signature cookies - rich chocolate fudge (300g), ajwain (250g), and fruit & nut (300g) packed in jars for indulgent moments and festive gifting that deserve a little sweetness and a lot of love. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/7/3522bf8b-4a8e-47e1-90e2-2c02f1e4fe3d_ccf9f784-4b91-4e75-9d83-b47380ce03c7.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 67800,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "108496916"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508748"
+                        },
+                        {
+                          "title": "Brownies",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914672",
+                                  "name": "Chocolate Brownie",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Our signature rich fudge brownie baked from scratch with our chef's secret recipe using special grade cocoa powder, dark chocolate, 100% butter, and secret ingredients for extra fudginess. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/4b4b98ce-388b-4301-99ab-7152f558468c_417c34dd-cd03-462a-a7d0-6c390cf66d02.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "74475341"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "181056711",
+                                  "name": "Gooey Cookie Brownie",
+                                  "category": "Cookies & Brownies",
+                                  "description": "(contains egg) our signature rich fudge brownie baked from scratch with our chef's secret recipe using special grade cocoa powder, cookie crumbs, dark chocolate, 100% butter, and secret ingredients for extra fudginess. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/24/e88af409-02e1-4491-aacb-0264253d19e8_a7b950dd-aed1-424c-bb30-72126f3931c8.jpg",
+                                  "inStock": 1,
+                                  "price": 10900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "109861415"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914671",
+                                  "name": "Walnut Fudge Brownie",
+                                  "category": "Cookies & Brownies",
+                                  "description": "(contains egg) serving size - 1 piece|our signature rich fudge brownie baked from scratch with our chef's secret recipe using special grade cocoa powder, crunchy walnuts, dark chocolate, 100% butter, and secret ingredients for extra fudginess. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/05092211-08b0-4354-a3ff-ab4f5cf6ab24_69eef08d-6afd-405a-b9ba-d1a85a531f13.jpg",
+                                  "inStock": 1,
+                                  "price": 10900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "73698343"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153933141",
+                                  "name": "Brownie Box",
+                                  "category": "Cookies & Brownies",
+                                  "description": "Indulge in a box of six of your favourite brownies-rich, fudgy, and baked to perfection. For every box, you pay for 5 brownies and get 1 absolutely free!",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/22/40a3e57e-fcb6-4736-b228-061e77c01cac_ad991360-c601-454e-b722-ea1428d5fca3.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+                                    "variantGroups": [
+                                      {
+                                        "groupId": "65591969",
+                                        "name": "Choose Your Brownie Box",
+                                        "variations": [
+                                          {
+                                            "name": "Chocolate Brownie (Box of 6)",
+                                            "default": 1,
+                                            "id": "198823214",
+                                            "inStock": 1,
+                                            "isVeg": 1,
+                                            "isEnabled": 1
+                                          },
+                                          {
+                                            "name": "Assorted Brownie (Box of 6)",
+                                            "id": "198823215",
+                                            "inStock": 1,
+                                            "isVeg": 1,
+                                            "isEnabled": 1
+                                          },
+                                          {
+                                            "name": "Walnut Fudge Brownie (Box of 6)",
+                                            "id": "198823216",
+                                            "inStock": 1,
+                                            "isEnabled": 1
+                                          },
+                                          {
+                                            "name": "Gooey Cookie Brownie (Box of 6)",
+                                            "id": "198823217",
+                                            "inStock": 1,
+                                            "isEnabled": 1
+                                          }
+                                        ]
+                                      }
+                                    ],
+                                    "pricingModels": [
+                                      {
+                                        "variations": [
+                                          {
+                                            "groupId": "65591969",
+                                            "variationId": "198823214"
+                                          }
+                                        ],
+                                        "price": 49900
+                                      },
+                                      {
+                                        "variations": [
+                                          {
+                                            "groupId": "65591969",
+                                            "variationId": "198823215"
+                                          }
+                                        ],
+                                        "price": 52900
+                                      },
+                                      {
+                                        "variations": [
+                                          {
+                                            "groupId": "65591969",
+                                            "variationId": "198823216"
+                                          }
+                                        ],
+                                        "price": 54900
+                                      },
+                                      {
+                                        "variations": [
+                                          {
+                                            "groupId": "65591969",
+                                            "variationId": "198823217"
+                                          }
+                                        ],
+                                        "price": 54900
+                                      }
+                                    ]
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "defaultPrice": 49900,
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91692902"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508749"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/9/2/f10ca00b-1b3d-4b3d-9bbe-581b0d69e84f_84d838bb-8e27-4dd5-b8e0-fae282c7ab2e.jpg",
+                      "categoryId": "65508727"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Muffins, Tarts & Tea Cakes",
+                      "categories": [
+                        {
+                          "title": "Muffins",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914669",
+                                  "name": "Chocolate Chip Muffin",
+                                  "category": "Muffins, Tarts & Tea Cakes",
+                                  "description": "Soft and fluffy muffin filled with chocolate chips. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/daba776c-f3e3-4084-a5c3-c9b6525a0d04_f9c87a1b-d1ea-4b38-b054-96da42e35ff5.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 8900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "73914956"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914670",
+                                  "name": "Blueberry Muffin",
+                                  "category": "Muffins, Tarts & Tea Cakes",
+                                  "description": "A moist, tender muffin filled with fresh blueberries compote. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/c9c5a3b6-397e-40cd-b7c3-a8f526907ff8_57ec0fbb-cac5-414b-80e8-6b179bff4abd.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 8900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "26694043"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508745"
+                        },
+                        {
+                          "title": "Tarts",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "131256051",
+                                  "name": "Walnut Tart",
+                                  "category": "Muffins, Tarts & Tea Cakes",
+                                  "description": "A crunchy roasted walnut filling nestled inside a buttery tart shell. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/22/fdd7e4bc-ee96-4fb5-bc45-10b24c96db58_5856f8d6-2559-4aac-8a31-403682f37462.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "64746752"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195181",
+                                  "name": "Chocolate Boat Tart",
+                                  "category": "Muffins, Tarts & Tea Cakes",
+                                  "description": "Rich and velvety chocolate ganache sits inside a crisp, buttery tart shell. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/23/a838e460-c0f8-48ad-871d-7a309917199f_cc3df6d5-d074-4d96-8633-c75337a128fa.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91171121"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66137025"
+                        },
+                        {
+                          "title": "Tea Cakes",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "181056712",
+                                  "name": "Tooti Frooti Tea Cake",
+                                  "category": "Muffins, Tarts & Tea Cakes",
+                                  "description": "Light and moist tea cake studded with colourful tutti frutti bits for a sweet, nostalgic bite. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/31/517537b5-0a32-488d-aee7-3d098cc75d22_58ceef35-6710-4181-bdad-e1ac67298460.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 23700,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "109861419"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66137026"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/daba776c-f3e3-4084-a5c3-c9b6525a0d04_f9c87a1b-d1ea-4b38-b054-96da42e35ff5.jpg",
+                      "categoryId": "65508726"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Tea Time Snacks",
+                      "categories": [
+                        {
+                          "title": "Lavash",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195184",
+                                  "name": "Aachari Lavash",
+                                  "category": "Tea Time Snacks",
+                                  "description": "Serving size - 90 gms|thin, crispy lavash with a tangy achari flavour, perfect for pairing with dips. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/447a7ad8-860d-4f64-84c4-99bee91655c1_969b8261-b86e-45a6-aa98-bd3f73353a22.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 12900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91171114"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195185",
+                                  "name": "Pesto Lavash",
+                                  "category": "Tea Time Snacks",
+                                  "description": "Serving size - 90 gms|crisp lavash infused with a fresh, herby pesto, ideal for snacking. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/ecf50227-0c88-4138-8e03-8360707ef999_654c243d-198d-4aa3-990d-abbfef8d9c1b.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 12900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91171140"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66137028"
+                        },
+                        {
+                          "title": "Savouries",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914645",
+                                  "name": "Cheese Straw",
+                                  "category": "Tea Time Snacks",
+                                  "description": "Serving size - 130 gms |thin, crispy sticks of puff pastry, twisted and baked with cheese. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/deb375e0-f76f-4483-b218-9dd5f6616e22_9fa92c3f-3ec9-437e-9ce6-bbbeca63bb91.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 16900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "26694086"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "153195183",
+                                  "name": "French Hearts",
+                                  "category": "Tea Time Snacks",
+                                  "description": "Serving size - 180 gms|crispy and buttery puff hearts with a light sugar glaze for a sweet treat. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/90feb776-490b-4bcc-9139-9fa31c2831cf_db92b3be-6c1b-4bcf-8353-c93e95214c08.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 22900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91171129"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66137029"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/447a7ad8-860d-4f64-84c4-99bee91655c1_969b8261-b86e-45a6-aa98-bd3f73353a22.jpg",
+                      "categoryId": "65508728"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Light Snacks",
+                      "categories": [
+                        {
+                          "title": "Puff Patty",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914653",
+                                  "name": "Masala Chicken Puff Patty",
+                                  "category": "Light Snacks",
+                                  "description": "A flaky puff pastry stuffed with spiced chicken masala, creating a savory delight. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/8708287e-654c-404c-af23-5abadca015b3_2e4a263a-e94b-4ca6-bfc8-b03cbba40c2c.jpg",
+                                  "inStock": 1,
+                                  "price": 12900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "91241106"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914652",
+                                  "name": "Creamy Chicken Puff Patty",
+                                  "category": "Light Snacks",
+                                  "description": "A light puff pastry filled with tender chicken and creamy sauce. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/e9d4ce0e-6b3d-41fa-a328-5cb52c3b614f_82414438-56b5-4e6f-8d81-c87170abad7f.jpg",
+                                  "inStock": 1,
+                                  "price": 12900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91241105"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66137032"
+                        },
+                        {
+                          "title": "Baked Delights",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914650",
+                                  "name": "Mushroom Onion Pie",
+                                  "category": "Light Snacks",
+                                  "description": "A rich, savory pie filled with sauteed mushrooms and caramelized onions. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/f9fd5711-db5c-441f-8bcd-498c283a33aa_91dc81ed-0f5e-4877-8780-8db3c257eefd.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 12900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "26694254"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66137033"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/8708287e-654c-404c-af23-5abadca015b3_2e4a263a-e94b-4ca6-bfc8-b03cbba40c2c.jpg",
+                      "categoryId": "66137030"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Crossiants & Sandwiches",
+                      "categories": [
+                        {
+                          "title": "Freshly Baked Croissants",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914666",
+                                  "name": "Plain Butter Croissant",
+                                  "category": "Crossiants & Sandwiches",
+                                  "description": "A classic, flaky, golden-brown croissant made with rich, high-quality butter. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/16/090e4247-59d6-4dda-b332-38c64426a7e7_3500c27f-5d2c-470f-98b2-0da2bbe05e02.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "91171141"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129914665",
+                                  "name": "Chocolate Croissant",
+                                  "category": "Crossiants & Sandwiches",
+                                  "description": "A classic french croissant with a delicious filling of chocolate inside flaky, buttery layers. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/16/c7f2a7b7-874f-41d4-b41b-98baa3d711ae_e985ce9d-603f-4e85-a025-04fa6b3f0225.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 12900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "26694115"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "65508753"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/10/16/090e4247-59d6-4dda-b332-38c64426a7e7_3500c27f-5d2c-470f-98b2-0da2bbe05e02.jpg",
+                      "categoryId": "65508729"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Coffee By Bizibean",
+                      "categories": [
+                        {
+                          "title": "Classic Hot Coffee",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157288094",
+                                  "name": "Just Coffee",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | do not understand the difference between cappuccino, frappuccino and other ccinos of the world? order your plain and simple desi coffee. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/658f2884-0b26-4ca2-8d31-74fd66cede48_029a273b-58ab-4625-b216-863d8d8bf185.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 21900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029471",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91379826"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157443188",
+                                  "name": "Americano",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | espresso shot + hot water - a classic black coffee made by diluting 2 shots of espresso with hot water. Ideal those for who like a bold and robust coffee flavour without the intensity of an espresso. The coffee is made from 100% arabica house blend, freshly roasted in our own roastery. No added sugar and suitable for vegans. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/26/f3bb27d0-31bd-425d-a60f-07d8cef3e41c_5fb48c5e-027c-4acc-9f69-4f1a4306cf98.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 16900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029489",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029490",
+                                      "groupName": "Make It Stronger",
+                                      "choices": [
+                                        {
+                                          "id": "139044658",
+                                          "name": "Extra Espress Shot [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029491",
+                                      "groupName": "Make It Sweeter",
+                                      "choices": [
+                                        {
+                                          "id": "139044657",
+                                          "name": "Hazelnut Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044660",
+                                          "name": "Chocolate Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044665",
+                                          "name": "Vanilla Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044661",
+                                          "name": "Irish Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044662",
+                                          "name": "Caramel Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 3,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91379811"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157443189",
+                                  "name": "Cappuccino",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | espresso shot + steamed milk + milk foam - the cappuccino has equal proportions of espresso, steamed milk and milk foam and is usually less sweeter than a cafe latte. Ideal for those who like a balanced flavour profile - the richeness from the espresso, creaminess from the milk, and lightness from the foam. The coffee is made from 100% arabica house blend, freshly roasted in our own roastery. No added sugar. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/26/0f9a653c-35be-47f8-8827-ecdf7ff1ccaa_1c1a10ba-27e1-469e-ad31-992a51e2640c.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 21900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029495",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029496",
+                                      "groupName": "Make It Stronger",
+                                      "choices": [
+                                        {
+                                          "id": "139044658",
+                                          "name": "Extra Espress Shot [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029498",
+                                      "groupName": "Make It Sweeter",
+                                      "choices": [
+                                        {
+                                          "id": "139044657",
+                                          "name": "Hazelnut Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044660",
+                                          "name": "Chocolate Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044665",
+                                          "name": "Vanilla Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044661",
+                                          "name": "Irish Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044662",
+                                          "name": "Caramel Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 3,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "1 rating",
+                                      "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91379814"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157443190",
+                                  "name": "Cafe Latte",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | espresso shot + steamed milk + milk foam - the cafe latte has a higher proportion of milk-to-cofee ratio with a thin layer of milk foam on top and is usually sweeter than a cappuccino. Ideal for those who like a mild flavour profile and a creamy and mellow coffee experience. The coffee is made from 100% arabica house blend, freshly roasted in our own roastery. No added sugar. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/c797dc93-fa97-49fa-92bf-4f25c84d75cb_2866923c-57c2-49dd-a963-267173d8e478.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 22900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029501",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029502",
+                                      "groupName": "Make It Stronger",
+                                      "choices": [
+                                        {
+                                          "id": "139044658",
+                                          "name": "Extra Espress Shot [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029503",
+                                      "groupName": "Make It Sweeter",
+                                      "choices": [
+                                        {
+                                          "id": "139044657",
+                                          "name": "Hazelnut Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044660",
+                                          "name": "Chocolate Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044665",
+                                          "name": "Vanilla Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044661",
+                                          "name": "Irish Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044662",
+                                          "name": "Caramel Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 3,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91379812"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157288090",
+                                  "name": "Cafe Mocha",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | espresso shot + chocolate syrup + steamed milk - cafe mocha has equal proportions of coffee-to-chocolate-to- milk ratio. Ideal for those who like a swwet flavour profile with a smooth finish. The coffee is made from 100% arabica house blend, freshly roasted in our own roastery. No added sugar. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/26/9d6b1a14-56ee-4cae-bf63-8f0203ae8f87_0a8e6d15-9781-4ee5-a864-2c6430dc5d76.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 26900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029474",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029476",
+                                      "groupName": "Make It Stronger",
+                                      "choices": [
+                                        {
+                                          "id": "139044658",
+                                          "name": "Extra Espress Shot [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029479",
+                                      "groupName": "Make It Sweeter",
+                                      "choices": [
+                                        {
+                                          "id": "139044657",
+                                          "name": "Hazelnut Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044660",
+                                          "name": "Chocolate Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044665",
+                                          "name": "Vanilla Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044661",
+                                          "name": "Irish Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044662",
+                                          "name": "Caramel Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 3,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91379813"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157443191",
+                                  "name": "Flat White",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | ristretto shot + steamed milk + milk foam - a flat white has a higher proportion of coffee-to-milk ratio since it is made using 2 ristretto shots (more concentrated coffee) rather than an espresso shot. Ideal for those who like a strong yet sweet flavour profile with a smooth finish. The coffee is made from 100% arabica house blend, freshly roasted in our own roastery. No added sugar. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/26/ead3647b-5ad2-4028-8ed1-ad928cf376e0_e89bb429-c741-4f79-87de-4087109ae812.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 26900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029504",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029505",
+                                      "groupName": "Make It Stronger",
+                                      "choices": [
+                                        {
+                                          "id": "139044658",
+                                          "name": "Extra Espress Shot [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029507",
+                                      "groupName": "Make It Sweeter",
+                                      "choices": [
+                                        {
+                                          "id": "139044657",
+                                          "name": "Hazelnut Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044660",
+                                          "name": "Chocolate Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044665",
+                                          "name": "Vanilla Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044661",
+                                          "name": "Irish Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044662",
+                                          "name": "Caramel Syrup [30 Ml]",
+                                          "price": 5000,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 3,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91379819"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66067384"
+                        },
+                        {
+                          "title": "Classic Hot Tea",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157443192",
+                                  "name": "Lemon Ginger Tea",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | a soothing caffeine-free drink,lemon ginger tea is made by brewing green tea with fresh ginger, lemon and is lightly sweetened with honey. No added sugar or milk. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/c06a8aca-946b-4edc-a92a-7b3157f0252f_e0cdfd8e-400b-416f-849b-a5c8642799e4.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "parentId": "91450946"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157288093",
+                                  "name": "Himalayan Green Tea",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | organic fresh green tea and rich in antioxidants. No added sugar or milk. Suitable for vegans. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/133b5f22-90c6-4f72-993a-dafa29587c5a_ab9269ad-9aa0-4ec6-a4f7-8486362a1961.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 15900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91450945"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157288087",
+                                  "name": "Assam Tea",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | a robust and bold black tea with a rich, malty flavor, hailing from the lush tea gardens of assam, india. No added sugar or milk. Suitable for vegans. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/f9068292-8fbb-4f42-a6d8-ed350d651751_309721c5-0371-47fa-9b9b-bb65e730420b.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029455",
+                                      "groupName": "Add Milk",
+                                      "choices": [
+                                        {
+                                          "id": "139044666",
+                                          "name": "Milk",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029458",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91450938"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157288088",
+                                  "name": "Darjeeling Tea",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | the champagne of teas, with delicate floral notes and a crisp, refreshing taste. No added sugar or milk. Suitable for vegans. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/bff5ab5b-e5da-4fc6-858b-131db9977bd3_168cf0ac-1a00-4503-8bc2-925112cdfa9e.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029461",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029464",
+                                      "groupName": "Add Milk",
+                                      "choices": [
+                                        {
+                                          "id": "139044666",
+                                          "name": "Milk",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91450939"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "157288089",
+                                  "name": "Earl Grey",
+                                  "category": "Coffee By Bizibean",
+                                  "description": "Serves 1 | classic black tea infused with the fragrant essence of bergamot oranges. No added sugar or milk. Suitable for vegans. ",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/8f9ade8a-d049-4fe9-b56c-073fb31fc362_9bfbeab8-ec77-414e-9b71-5f4f4253a993.jpg",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "addons": [
+                                    {
+                                      "groupId": "237029467",
+                                      "groupName": "Add Ons",
+                                      "choices": [
+                                        {
+                                          "id": "139044656",
+                                          "name": "White Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044667",
+                                          "name": "Brown Sugar [2 Sachet]",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        },
+                                        {
+                                          "id": "139044659",
+                                          "name": "No Sugar",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 2,
+                                      "maxFreeAddons": -1
+                                    },
+                                    {
+                                      "groupId": "237029469",
+                                      "groupName": "Add Milk",
+                                      "choices": [
+                                        {
+                                          "id": "139044666",
+                                          "name": "Milk",
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": 1,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+
+                                    }
+                                  },
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                  ],
+                                  "parentId": "91450942"
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "66067385"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/6/27/658f2884-0b26-4ca2-8d31-74fd66cede48_029a273b-58ab-4625-b216-863d8d8bf185.jpg",
+                      "categoryId": "66067383"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 13318009000332"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Angels In My Kitchen",
+                      "area": "Connaught Place",
+                      "completeAddress": "Nirulas, Shop No. M-57,M- Block, Connaught Place New Delhi ,CHANKYA PURI,New Delhi,Delhi-110001"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "ca487161-da49-47e6-b385-cd7487032260",
+  "sid": "ns8d1928-e14a-415f-8ead-0174ef84d448",
+  "deviceId": "015f40da-0f30-5a15-ee9a-5c8fb20aff39",
+  "csrfToken": "Vkh3UKMXjUef-x0X8RF6tAwNmMvkKMK7u0HWrKdQ"
+}
