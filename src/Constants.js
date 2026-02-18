@@ -10,7 +10,7 @@ export const useRastaurantMenu = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/api.json");
+        const response = await fetch("/Api.json");
         const json = await response.json();
         setRestaurantMenu(json);
         console.log(json);
