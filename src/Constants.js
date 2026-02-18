@@ -5,24 +5,25 @@ export const CDN_URL =
 export const Menu_api =
   "https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.6291344&lng=77.12047129999999&restaurantId=";
 
-export const useRastaurantMenu = (restId) => {
-  const [restaurantmenu, setrestaurantmenu] = useState(null);
-   
-  async function fetchData() {
-   try {
-    const Data= await fetch(Menu_api + restId)
-    const json = await Data.json()
-    setrestaurantmenu(json)  
-   } catch (error) {
-     console.log(error);
-     
-   }
-
-  }
+export const useRastaurantMenu = () => {
+  const [restaurantMenu, setRestaurantMenu] = useState(null);
   useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch("/api.json");
+        const json = await response.json();
+        setRestaurantMenu(json);
+        console.log(json);
+        
+      } catch (error) {
+        console.log(error);
+      }
+    };
+
     fetchData();
   }, []);
 
-  return restaurantmenu;
+  return restaurantMenu;
 };
+
 

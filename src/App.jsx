@@ -37,10 +37,6 @@ export const Approuter=createBrowserRouter([
         element:<Contact/>
       },
       {
-        path:"/Cart",
-        element:<Cart/>
-      },
-      {
         path:"/Login",
         element:<Login/>
       },

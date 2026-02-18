@@ -14,8 +14,7 @@ const Header = () => {
                 <li><Link style={{textDecoration:"none",color:'black'}} to={"/"}>Home </Link> </li>
                 <li><Link style={{textDecoration:"none",color:'black'}} to={"/about"}>About us </Link> </li>
                 <li><Link style={{textDecoration:"none",color:'black'}} to={"/contact"}>Contact us </Link> </li>
-                <li><Link style={{textDecoration:"none",color:'black'}} to={"/cart"}>Cart </Link> </li>
-                <li style={{textDecoration:"none",}}>{internetstatus? "🟢":"🔴"}  </li>
+                <li style={{textDecoration:"none",}}>{internetstatus? <li style={{color:'green'}}>Online</li>:<li style={{color:"red"}}>Offline </li>}</li>
             </ul>
            <Link to={"/Login"}> <button className='login-btn'>Login</button></Link>
         </div>
