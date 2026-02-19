@@ -421,6 +421,7 @@
 
   .res-card img {
     height: 140px;
+    width:20rem;
   }
 
   .res-card-content {
@@ -450,6 +451,7 @@
 
   .res-card img {
     height: 180px;
+    width: 20rem;
   }
 
   .res-card-content {
@@ -478,6 +480,7 @@
 
   .res-card img {
     height: 200px;
+    width: 20rem;
   }
 
   .res-card-content {
