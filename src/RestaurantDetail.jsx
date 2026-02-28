@@ -6,7 +6,6 @@ import { CDN_URL } from "./Constants";
 const RestaurantDetail = () => {
   const [allMenuCard,setallMenuCard]=useState([])
   const { id } = useParams();
-  console.log(id);
   const Data = useRastaurantMenu();
   function hendleData() {
     const findData = Data?.data?.restaurants.find(
@@ -17,7 +16,6 @@ const RestaurantDetail = () => {
     hendleData()
   },[Data])
  
- console.log(allMenuCard);
  
   const {
     name,
