@@ -13,8 +13,6 @@ export const useRastaurantMenu = () => {
         const response = await fetch("/Api.json");
         const json = await response.json();
         setRestaurantMenu(json);
-        console.log(json);
-        
       } catch (error) {
         console.log(error);
       }
