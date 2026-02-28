@@ -87,8 +87,7 @@ const Body = () => {
               to={`restaurantCard/${val.info.id}`}
               style={{ textDecoration: "none" }}
             >
-              {console.log(val)
-              }
+             
               {val?.info?.isOpen ?( <Promted resData={val}/>):(<RestaurantCard key={val.info.id} resData={val} />)}
               
             </Link>
